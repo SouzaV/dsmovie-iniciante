@@ -21,3 +21,11 @@ a, a:hover{
     text-decoration: none;
     color: unset;
 }
+.dsmovie-card{
+    width: 360px;
+    height: 400px;
+    background-color: #ffff;
+}
+#dsmovies-card-list{
+    padding: 40px 0;
+}
